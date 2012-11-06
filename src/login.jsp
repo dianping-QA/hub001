@@ -8,6 +8,7 @@
 </head>
 <body>
   Today is Monday 2012-11-5 .It is sunny.
-     秋游品蟹刚回来
+    秋游品蟹刚回来
+    周二下午喻老师身体不适，估计是团建太卖力了。
 </body>
 </html>
