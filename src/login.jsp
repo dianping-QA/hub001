@@ -11,6 +11,6 @@
     秋游品蟹刚回来
     周二下午喻老师身体不适，估计是团建太卖力了。
     周二上午SCM例会提到改进cap。
-    kankan codereview 如何拒绝
+    看看 codereview 如何拒绝
 </body>
 </html>
