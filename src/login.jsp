@@ -14,5 +14,6 @@
     周二上午SCM例会提到改进cap。
     看看 codereview 如何拒绝
     喻老师他们已经开始用git了，真开心！
+    在发起个pull request 11-15
 </body>
 </html>
